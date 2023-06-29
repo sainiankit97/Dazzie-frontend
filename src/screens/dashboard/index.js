@@ -146,11 +146,11 @@ const Dashboard = () => {
                     {Object.keys(itemsToShow).map((key) => {
                         const items = itemsToShow[key]
                         return (
-                            <div className="catergory-items">
+                            <div className="catergory-items" key={key}>
                                 <span className="category-label">{key}</span>
                                 <div className="items-container">
-                                    {items?.map((item) => {
-                                        return <ItemCard item={item} />
+                                    {items?.map((item,index) => {
+                                        return <ItemCard item={item} key={index} />
                                     })}
                                 </div>
                             </div>
@@ -165,8 +165,8 @@ const Dashboard = () => {
                     <div className="catergory-items">
                         <span className="category-label">{categorySelected}</span>
                         <div className="items-container">
-                            {itemsToShow[categorySelected]?.map((item) => {
-                                return <ItemCard item={item} />
+                            {itemsToShow[categorySelected]?.map((item,index) => {
+                                return <ItemCard item={item} key={index}/>
                             })}
                         </div>
                     </div>

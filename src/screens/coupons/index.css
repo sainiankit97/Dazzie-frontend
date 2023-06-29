@@ -1,0 +1,94 @@
+.coupon-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #F7F7FC;
+    /* height: 100%; */
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.top-button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.coupon-label {
+    font-size: 24px;
+    line-height: 29px;
+    font-family: 'Mulish-Bold';
+    text-align: left;
+}
+
+.coupon-inner-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 40px;
+    border-radius: 8px;
+}
+
+
+.search-container {
+    flex: 0.96;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.filter-icon {
+    height: 24px;
+    width: 24px;
+    margin-left: 16px;
+}
+
+.dots-icon {
+    height: 24px;
+    width: 24px;
+    margin-left: 16px;
+}
+
+.search-main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.heading-style {
+    font-size: 16px;
+    line-height: 19px;
+    font-family: 'Mulish-Bold';
+    color: #11142D;
+    background-color: #F7F7FC;
+    padding-left: 22px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 16px;
+    text-align: left;
+}
+
+.tableData {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    padding-left: 22px;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: 'Mulish-Regular';
+    text-align: left;
+}
+
+.see-details-label {
+    margin-top: 16px;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: 'Mulish-Bold';
+    color: #5541D7;
+    cursor: pointer;
+}

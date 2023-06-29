@@ -22,12 +22,6 @@ const sidebarOptions = [
         navigateTo: "/"
     },
     {
-        key: "analytics",
-        icon: Orders,
-        activeIcon: OrdersActive,
-        navigateTo: "/analytics"
-    },
-    {
         key: "customers",
         icon: Customer,
         activeIcon: CustomerActive,
@@ -49,7 +43,7 @@ const sidebarOptions = [
         key: "user",
         icon: User,
         activeIcon: UserActive,
-        navigateTo: "/user"
+        navigateTo: "/employee-shift"
     }
 ]
 

@@ -1,20 +1,15 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import './App.css';
 import Dashboard from './screens/dashboard';
-import Analytics from './screens/analytics';
 import Customers from './screens/customers';
 import Product from './screens/product';
 import Coupons from './screens/coupons';
-import User from './screens/user';
+import EmployeeShift from './screens/employee-shift';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Dashboard />,
-  },
-  {
-    path: "/analytics",
-    element: <Analytics />,
   },
   {
     path: "/customers",
@@ -29,8 +24,8 @@ const router = createBrowserRouter([
     element: <Coupons />,
   },
   {
-    path: "/user",
-    element: <User />,
+    path: "/employee-shift",
+    element: <EmployeeShift />,
   }
 ])
 

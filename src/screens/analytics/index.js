@@ -6,7 +6,7 @@ const Analytics = () => {
     return (
         <div className="analytics_container">
             <div className="analytics_inner_container">
-                <span>asadws</span>
+                <span>Analytics</span>
             </div>
         </div>
     )

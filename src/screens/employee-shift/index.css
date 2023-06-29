@@ -1,0 +1,74 @@
+.employee-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #F7F7FC;
+    /* height: 100%; */
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.top-button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.employee-label {
+    font-size: 24px;
+    line-height: 29px;
+    font-family: 'Mulish-Bold';
+    text-align: left;
+}
+
+.employee-shift-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 8px;
+}
+
+.employee-inner-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.shift-label {
+    font-size: 16px;
+    line-height: 19px;
+    font-family: 'Mulish-Bold';
+    color: #11142D;
+}
+
+
+.icons-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pen-icon {
+    height: 24px;
+    width: 24px;
+}
+
+.plus-icon {
+    height: 24px;
+    width: 24px;
+    margin-left: 16px;
+}
+
+.employee-cards-container{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 32px;
+    margin-top: 24px;
+}
