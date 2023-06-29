@@ -1,0 +1,9 @@
+.bottom-container {
+    display: flex;
+    flex-direction: row;
+    height: calc(100vh - 80px);
+}
+
+.child-container {
+    width: calc(100vw - 120px);
+}

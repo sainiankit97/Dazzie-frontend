@@ -1,0 +1,35 @@
+.tab-panel-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.tab-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 16px;
+    width: 100%;
+}
+
+.tab-label {
+    font-size: 16px;
+    line-height: 19px;
+    font-family: 'Mulish-Bold';
+    color: #92929D;
+    cursor: pointer;
+    margin-bottom: 16px;
+}
+
+.tab-label-selected {
+    color: #11142D;
+}
+
+.bottom-line {
+    height: 4px;
+    background-color: #DBD7F4;
+}
+
+.bottom-line-selected {
+    background-color: #5541D7;
+}

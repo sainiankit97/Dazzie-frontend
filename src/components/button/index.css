@@ -1,0 +1,21 @@
+.button-container {
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: #5541D7;
+    border-radius: 8px;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.button-text{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'Mulish-Bold';
+    line-height: 19px;
+}

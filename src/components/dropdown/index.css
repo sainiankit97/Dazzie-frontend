@@ -1,0 +1,14 @@
+.label-style {
+    font-size: 16px;
+    line-height: 19px;
+    color: #11142D;
+    font-family: 'Mulish-bold';
+    text-align: left;
+    margin-bottom: 8px;
+    margin-left: 16px;
+}
+
+.dropdown-container {
+    display: flex;
+    flex-direction: column;
+}

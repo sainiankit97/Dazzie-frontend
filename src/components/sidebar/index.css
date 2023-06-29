@@ -1,0 +1,27 @@
+.sidebar-options {
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    padding-left: 28px;
+    padding-right: 28px;
+    gap: 20px;
+    min-height: 100vh;
+    border-right: 1px solid #E1E1E1;
+}
+
+.option-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.option-active{
+    background-color: #5541D7;
+}
+
+.sidebar {
+    width: 112px;
+}

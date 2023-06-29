@@ -1,0 +1,43 @@
+.label-style {
+    font-size: 16px;
+    line-height: 19px;
+    color: #11142D;
+    font-family: 'Mulish-bold';
+    text-align: left;
+    margin-bottom: 8px;
+    margin-left: 16px;
+}
+
+.text-box-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-box-container {
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 24px;
+    padding-left: 24px;
+    border: 1px solid #DBD7F4;
+    border-radius: 8px;
+    background-color: #F7F7FC;
+}
+
+.input-box {
+    width: 100%;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: 'Mulish-Regular';
+    border-color: transparent;
+    background-color: transparent;
+    outline: none;
+    height: 19px;
+    padding: 0px;
+    border-width: 0px;
+}
+
+.input-box:focus {
+    border-color: transparent;
+    outline: none;
+    background-color: transparent;
+}

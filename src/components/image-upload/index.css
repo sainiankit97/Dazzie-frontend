@@ -1,0 +1,29 @@
+.image-style {
+    height: 104px;
+    width: 104px;
+    border-radius: 8px;
+}
+
+.image-upload-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.image-upload-label {
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    font-family: 'Mulish-bold';
+    margin-bottom: 24px;
+}
+
+.label-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 16px;
+}
+
+.image-placeholder {
+    background-color: #E2E2EA;
+}

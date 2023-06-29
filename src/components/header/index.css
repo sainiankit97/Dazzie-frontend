@@ -1,0 +1,76 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 32px;
+    padding-right: 32px;
+    justify-content: space-between;
+    border-bottom: 1px solid #E1E1E1;
+}
+
+.left-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    background-color: #E2E2EA;
+    cursor: pointer;
+}
+
+.title {
+    color: #11142D;
+    font-size: 24px;
+    line-height: 29px;
+    font-family: 'Mulish-Bold';
+    margin-left: 8px;
+}
+
+.right-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.notification-icon {
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+}
+
+.profile-photo {
+    display: flex;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #C4C4C4;
+    margin-left: 28px;
+    cursor: pointer;
+}
+
+.user-name {
+    font-size: 16px;
+    line-height: 19px;
+    font-family: 'Mulish-Bold';
+    color: #11142D;
+    text-align: left;
+}
+
+.user-designation {
+    font-size: 12px;
+    line-height: 14px;
+    font-family: 'Mulish-Regular';
+    color: #9A9AB0;
+    text-align: left;
+}
+
+.user-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 16px;
+}

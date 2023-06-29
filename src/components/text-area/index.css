@@ -1,0 +1,39 @@
+.label-style {
+    font-size: 16px;
+    line-height: 19px;
+    color: #11142D;
+    font-family: 'Mulish-bold';
+    text-align: left;
+    margin-bottom: 8px;
+    margin-left: 16px;
+}
+
+.text-area-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.text-area-box-container {
+    padding: 24px;
+    border: 1px solid #DBD7F4;
+    border-radius: 8px;
+    background-color: #F7F7FC;
+}
+
+.text-area-box {
+    width: 100%;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: 'Mulish-Regular';
+    border-color: transparent;
+    background-color: transparent;
+    outline: none;
+    padding: 0px;
+    border-width: 0px;
+}
+
+.text-area-box:focus {
+    border-color: transparent;
+    outline: none;
+    background-color: transparent;
+}
