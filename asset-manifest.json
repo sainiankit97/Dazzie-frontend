@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Dazzie-frontend/static/css/main.e849a8c1.css",
+    "main.js": "/Dazzie-frontend/static/js/main.1195ea7d.js",
+    "static/js/787.ad3aa1fb.chunk.js": "/Dazzie-frontend/static/js/787.ad3aa1fb.chunk.js",
+    "static/media/Mulish-Regular.ttf": "/Dazzie-frontend/static/media/Mulish-Regular.06ce9c37c31ae94797a2.ttf",
+    "static/media/Mulish-Bold.ttf": "/Dazzie-frontend/static/media/Mulish-Bold.1f6c3935d7359190d7dd.ttf",
+    "static/media/customer_active.svg": "/Dazzie-frontend/static/media/customer_active.db372a1f468641e8deb71b6a853e056c.svg",
+    "static/media/customer.svg": "/Dazzie-frontend/static/media/customer.d40a414d86b3c51a294fb62e755f974f.svg",
+    "static/media/coupon_discount.svg": "/Dazzie-frontend/static/media/coupon_discount.807a6bac2d372d3fcf6cb15dc734a0c4.svg",
+    "static/media/coupon_active.svg": "/Dazzie-frontend/static/media/coupon_active.4a002e4e9fd1860a89f0d8a9d92a19ce.svg",
+    "static/media/notification_bell.svg": "/Dazzie-frontend/static/media/notification_bell.9eda4057e7f311dbf9de6ca9d28e4faa.svg",
+    "static/media/user.svg": "/Dazzie-frontend/static/media/user.c4d1750ef99d96171b4fce46457391c4.svg",
+    "static/media/user_active.svg": "/Dazzie-frontend/static/media/user_active.f5159fa7de6d593eeec61e906f96e498.svg",
+    "index.html": "/Dazzie-frontend/index.html",
+    "static/media/SEARCH.svg": "/Dazzie-frontend/static/media/SEARCH.549e671f643962e52225dd3f26fe9fa0.svg",
+    "static/media/Menu.svg": "/Dazzie-frontend/static/media/Menu.d144be1c7b1488a66dad3ac545579260.svg",
+    "static/media/Menu_active.svg": "/Dazzie-frontend/static/media/Menu_active.4a0b0f6aee510e9f5e19be0ad2db7ad3.svg",
+    "static/media/orders_active.svg": "/Dazzie-frontend/static/media/orders_active.b3748a393c45049e8ad8ce986b748a42.svg",
+    "static/media/Package.svg": "/Dazzie-frontend/static/media/Package.acabd514a775d975045f9428f3f4a105.svg",
+    "static/media/Package_active.svg": "/Dazzie-frontend/static/media/Package_active.3228afff8d381e1b84ffcc94321f0c2c.svg",
+    "static/media/orders.svg": "/Dazzie-frontend/static/media/orders.c7fdb23160495c8d29c8663cca154a9f.svg",
+    "main.e849a8c1.css.map": "/Dazzie-frontend/static/css/main.e849a8c1.css.map",
+    "main.1195ea7d.js.map": "/Dazzie-frontend/static/js/main.1195ea7d.js.map",
+    "787.ad3aa1fb.chunk.js.map": "/Dazzie-frontend/static/js/787.ad3aa1fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e849a8c1.css",
+    "static/js/main.1195ea7d.js"
+  ]
+}
